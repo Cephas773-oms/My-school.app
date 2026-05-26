@@ -1,0 +1,6 @@
+{
+  "name": "HTU Past Questions",
+  "description": "Online Past Questions Management System for Ho Technical University.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
